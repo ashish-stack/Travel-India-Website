@@ -1,0 +1,65 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#j{
+	padding-top: 20%;
+}
+
+#landing3{
+		background: url("https://www.narcity.com/u/2018/08/16/8404a8b6f2edf60e0882a92877ea8fdf561e3a9b.jpg_1200x630.jpg") no-repeat center center 		fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#landing1{
+	text-align: center;
+	margin-top: 3em;
+	font-size: 5em;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+}
+#landing2{
+	font-weight: 10px;
+	font-size: 18px;
+	border-radius: 6px;
+	line-height: 1.333;
+	padding: 10px 16px;
+	margin-bottom:200px;
+	margin-left: 35%;
+}
+body{
+background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.jumbotron{
+	background: no-repeat url("https://www.tripsavvy.com/thmb/K_j2pTJNiNIJ_0M64CktwOMF0kg=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1057950702-11aa2a04a9214f6e9724ed190df69703.jpg");
+	background-position: center;
+    background-size: cover;
+	margin-bottom: 100px; 
+}
+.jumbotron-div{
+	margin-top: 15%;
+    margin-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: rgba(10, 130, 4, .3);
+    text-align: center;
+    color: white;
+}
